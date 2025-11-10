@@ -1,0 +1,30 @@
+---
+layout: archive
+title: "Research Team"
+permalink: /teaching/
+author_profile: true
+---
+
+{% include base_path %}
+
+<h2>Principal Investigator</h2>
+<!-- Add PI information here -->
+
+<h2>Postdoctoral Researchers</h2>
+<!-- Add postdoc profiles here -->
+
+<h2>PhD Students</h2>
+<!-- Add PhD student profiles here -->
+
+<h2>Master's Students</h2>
+<!-- Add master's student profiles here -->
+
+<h2>Undergraduate Students</h2>
+<!-- Add undergraduate student profiles here -->
+
+<h2>Alumni</h2>
+<!-- Add alumni information here -->
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}

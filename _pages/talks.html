@@ -1,0 +1,43 @@
+---
+layout: archive
+title: "Contact"
+permalink: /talks/
+author_profile: true
+---
+
+{% include base_path %}
+
+<h2>Contact Information</h2>
+
+<h3>Address</h3>
+<p>
+[Department Name]<br>
+[University Name]<br>
+[Building and Room Number]<br>
+[City, Province, Postal Code]<br>
+[Country]
+</p>
+
+<h3>Email</h3>
+<p>
+Principal Investigator: [email]@[domain]<br>
+General Inquiries: [email]@[domain]
+</p>
+
+<h3>Phone</h3>
+<p>
+Office: +[country code] [phone number]
+</p>
+
+<h3>Office Hours</h3>
+<p>
+[Day and Time] or by appointment
+</p>
+
+<h2>Location</h2>
+<!-- You can embed a map here -->
+<p>[Add directions or map embed code]</p>
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}

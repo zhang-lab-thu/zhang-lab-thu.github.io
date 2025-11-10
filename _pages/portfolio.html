@@ -1,0 +1,32 @@
+---
+layout: archive
+title: "Join Us"
+permalink: /portfolio/
+author_profile: true
+---
+
+{% include base_path %}
+
+<h2>Open Positions</h2>
+
+<h3>PhD Positions</h3>
+<p>We are seeking motivated PhD students interested in [research areas]. Ideal candidates should have:</p>
+<ul>
+  <li>Strong background in [relevant fields]</li>
+  <li>Programming skills (Python, etc.)</li>
+  <li>Excellent communication skills</li>
+</ul>
+
+<h3>Postdoctoral Positions</h3>
+<p>We have openings for postdoctoral researchers with expertise in [research areas].</p>
+
+<h3>Master's and Undergraduate Students</h3>
+<p>We welcome students interested in research projects. Contact us for available projects.</p>
+
+<h2>How to Apply</h2>
+<p>Please send your CV, research statement, and contact information for references to [email].</p>
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
