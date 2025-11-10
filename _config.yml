@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "China"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yuanlong Zhang / lab"
+title                    : "Yuanlong Zhang's lab / Neurolabware"
 title_separator          : "-"
 name                     : &name "Yuanlong Zhang"
 description              : &description "Yuanlong Zhang's lab"   # Update this with a general description of your site, this is the default if not overridden by a page
