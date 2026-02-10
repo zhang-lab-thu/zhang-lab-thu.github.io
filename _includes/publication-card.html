@@ -1,0 +1,42 @@
+{% assign pub = include.post %}
+
+{% if pub.image %}
+  {% assign pub_image = pub.image %}
+{% elsif pub.header.teaser %}
+  {% assign pub_image = pub.header.teaser %}
+{% endif %}
+
+<article class="publication-card">
+  <a class="publication-card__link" href="{{ base_path }}{{ pub.url }}">
+    {% if pub_image %}
+      <div class="publication-card__media">
+        <img src="{% if pub_image contains '://' %}{{ pub_image }}{% else %}{{ pub_image | prepend: base_path }}{% endif %}" alt="{{ pub.title | escape }}">
+      </div>
+    {% endif %}
+    <div class="publication-card__content">
+      {% if pub.title %}
+      <h3 class="publication-card__title">{{ pub.title }}</h3>
+      {% endif %}
+      {% if pub.authors %}
+        <p class="publication-card__authors">{{ pub.authors }}</p>
+      {% endif %}
+      {% if pub.venue or pub.date %}
+        <p class="publication-card__meta">
+          {% if pub.venue %}<span>{{ pub.venue }}</span>{% endif %}
+          {% if pub.date %}<span>{{ pub.date | default: "1900-01-01" | date: "%Y" }}</span>{% endif %}
+        </p>
+      {% endif %}
+      {% if pub.excerpt %}
+        <p class="publication-card__excerpt">{{ pub.excerpt | markdownify | strip_html | strip_newlines }}</p>
+      {% endif %}
+    </div>
+  </a>
+  <div class="publication-card__actions">
+    {% if pub.paperurl %}<a class="btn btn--primary" href="{{ pub.paperurl }}">Paper</a>{% endif %}
+    {% if pub.project_url %}<a class="btn btn--inverse" href="{{ pub.project_url }}">Project</a>{% endif %}
+    {% if pub.code_url %}<a class="btn btn--inverse" href="{{ pub.code_url }}">Code</a>{% endif %}
+    {% if pub.video_url %}<a class="btn btn--inverse" href="{{ pub.video_url }}">Video</a>{% endif %}
+    {% if pub.slidesurl %}<a class="btn btn--inverse" href="{{ pub.slidesurl }}">Slides</a>{% endif %}
+    {% if pub.bibtexurl %}<a class="btn btn--inverse" href="{{ pub.bibtexurl }}">BibTeX</a>{% endif %}
+  </div>
+</article>
