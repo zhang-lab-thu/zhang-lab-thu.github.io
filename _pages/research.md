@@ -25,8 +25,6 @@ We develop mesoscale and pan-scale brain observation tools that expand imaging t
 - **Freely behaving mesoscale observation (SOMM; Nature Biomedical Engineering 2024):** A systematically optimized miniaturized mesoscope (with diffractive elements) enabling cellular population recording at up to **16 Hz** over **3.6 × 3.6 mm² FOV**, with **~4 μm resolution**, **~300 μm depth-of-field**, and **<2.5 g** total weight.  
 - **Miniaturized microscopy with end-to-end ML design (Nature Communications 2023):** An integrated microscope for extended depth-of-field imaging that exceeds the optical performance of common commercial setups (5×, NA 0.1) while occupying **~0.15 cm³** and weighing **~0.5 g**.  
 
----
-
 ### Area 2: Large-scale neuronal signal processing
 
 As recording throughput grows, the limiting step often becomes **extracting clean cellular signals** from noisy, scattering- and aberration-corrupted measurements—fast enough to keep pace with experiments, and reliably enough to support quantitative conclusions. We build reconstruction and analysis algorithms that turn raw fluorescence measurements into interpretable cellular activity with high fidelity and high efficiency.
@@ -35,8 +33,6 @@ As recording throughput grows, the limiting step often becomes **extracting clea
 - **DeepWonder (Nature Methods 2023):** A synthesis-training-based background removal framework for functional imaging that reduces processing time by ~**10×** while improving the accuracy and reliability of signal extraction. 
 - **DiLFM (Light: Science & Applications 2021):** A sparse-encoding, low-phototoxicity light-field reconstruction framework that mitigates artifacts under sub-optimal illumination and extends the usable observation window by **>50×** in phototoxicity-sensitive settings (e.g., zebrafish larvae). 
 - **DeepSeMi (Nature Methods 2023):** A denoising approach that yields an effective **~15× photon budget increase** in standard confocal microscopy, enabling longer and gentler observation of light-sensitive biological dynamics.
----
-
 ### Area 3: Neurocircuits, behavior, and NeuroAI
 
 Our tool-building efforts are guided by neuroscience questions: how neural populations coordinate across brain regions to support learning, memory, and flexible behavior. We are developing experimental and computational frameworks that connect **large-scale neural recordings** to **behavioral structure** and **computational models**, with two goals: (i) extract mechanistic principles of neural computation, and (ii) use those principles to inform **NeuroAI** and next-generation **brain–computer interface** ideas.
@@ -45,6 +41,7 @@ Our tool-building efforts are guided by neuroscience questions: how neural popul
 - **Circuit-to-behavior modeling at scale:** Joint analysis of large neuronal populations with rich behavioral measurements to identify population codes, state structure, and learning dynamics.  
 - **Brain–AI alignment tools:** Methods to compare and align internal representations in biological circuits and artificial agents, emphasizing interpretability and hypothesis generation.  
 - **ML- and robotics-enabled experimentation:** Using modern machine learning and automated/robotic systems to increase experimental throughput and enable more systematic, closed-loop interrogation strategies.  
+
 ## Funding
 
 Our research is supported by:
