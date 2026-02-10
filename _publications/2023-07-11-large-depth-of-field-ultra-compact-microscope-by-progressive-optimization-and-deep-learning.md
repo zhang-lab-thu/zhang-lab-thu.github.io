@@ -2,6 +2,7 @@
 title: "Large depth-of-field ultra-compact microscope by progressive optimization and deep learning"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/large-depth-of-field-ultra-compact-microscope-by-progressive-optimization-and-deep-learning
 excerpt: ""
 date: 2023-07-11

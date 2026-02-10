@@ -2,11 +2,12 @@
 title: "DiLFM: an artifact-suppressed and noise-robust light-field microscopy through dictionary learning"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/dilfm-an-artifact-suppressed-and-noise-robust-light-field-microscopy-through-dictionary-learning
 excerpt: "Light field microscopy (LFM) has been widely used for recording 3D biological dynamics at camera frame rate. However, LFM suffers from artifact contaminations due to the illness of the reconstruction problem via naive R…"
 date: 2021-07-27
 venue: "Light Sci Appl"
-authors: "Y. Zhang; B. Xiong; Y. Zhang; Z. Lu; J. Wu; Q. Dai"
+authors: "Yuanlong Zhang; Bo Xiong; Yi Zhang; Zhi Lu; Jiamin Wu; Qionghai Dai"
 image: /images/pubs/2021/dilfm-an-artifact-suppressed-and-noise-robust-light-field-microscopy-through-dictionary-learning.jpg
 paperurl: "https://doi.org/10.1038/s41377-021-00587-6"
 doi: "10.1038/s41377-021-00587-6"

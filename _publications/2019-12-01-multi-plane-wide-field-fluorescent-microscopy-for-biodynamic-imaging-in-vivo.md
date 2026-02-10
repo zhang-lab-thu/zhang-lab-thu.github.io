@@ -2,12 +2,13 @@
 title: "Multi-plane, wide-field fluorescent microscopy for biodynamic imaging in vivo"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/multi-plane-wide-field-fluorescent-microscopy-for-biodynamic-imaging-in-vivo
 excerpt: "Wide-field fluorescent microscopy (WFFM) is widely employed in biomedical studies, due to its inherent advantages in high-speed imaging of biological dynamics noninvasively and specifically. However, WFFM suffers from t…"
 date: 2019-12-01
 venue: "Biomed Opt Express"
-authors: "R. Shi; C. Jin; H. Xie; Y. Zhang; X. Li; Q. Dai; L. Kong"
-image: /images/pubs/2019/boe-10-12-6625-g003.png
+authors: "Ruheng Shi; Cheng Jin; Hao Xie; Yuanlong Zhang; Xinyang Li; Qionghai Dai; Lingjie Kong"
+image: /images/pubs/2019/boe-10-12-6625-g003.jpg
 paperurl: "https://doi.org/10.1364/BOE.10.006625"
 doi: "10.1364/BOE.10.006625"
 citation: "R. Shi, C. Jin, H. Xie et al. (2019). Multi-plane, wide-field fluorescent microscopy for biodynamic imaging in vivo. Biomed Opt Express"

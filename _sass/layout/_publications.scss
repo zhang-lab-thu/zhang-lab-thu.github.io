@@ -69,12 +69,22 @@
   margin: 0;
 }
 
+.pub-author-highlight {
+  font-weight: 600;
+}
+
 .publication-card__meta {
   color: #666;
   display: flex;
   font-size: 0.85rem;
   gap: 10px;
   margin: 0;
+}
+
+.pub-venue {
+  font-style: italic;
+  font-weight: 600;
+  color: #1f4b99;
 }
 
 .publication-card__excerpt {

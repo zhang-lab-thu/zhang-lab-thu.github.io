@@ -2,6 +2,7 @@
 title: "The Optically Guided and Pre-assembled Implantation Cranial Window Reveals Cortical Spatial Representations during Navigation"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/the-optically-guided-and-pre-assembled-implantation-cranial-window-reveals-cortical-spatial-representations-during-navigation
 excerpt: "Head-mounted miniaturized microscopes have provided new capabilities for neuroscience by enabling neural imaging in freely behaving animals. The long-term application of these microscopes, however, is contingent upon sp…"
 date: 2026-01-15

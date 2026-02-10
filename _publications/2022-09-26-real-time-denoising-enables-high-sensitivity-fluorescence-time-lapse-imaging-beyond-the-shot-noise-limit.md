@@ -2,11 +2,12 @@
 title: "Real-time denoising enables high-sensitivity fluorescence time-lapse imaging beyond the shot-noise limit"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/real-time-denoising-enables-high-sensitivity-fluorescence-time-lapse-imaging-beyond-the-shot-noise-limit
 excerpt: "A fundamental challenge in fluorescence microscopy is the photon shot noise arising from the inevitable stochasticity of photon detection. Noise increases measurement uncertainty and limits imaging resolution, speed and…"
 date: 2022-09-26
 venue: "Nat Biotechnol"
-authors: "X. Li; Y. Li; Y. Zhou; J. Wu; Z. Zhao; J. Fan; F. Deng; Z. Wu; G. Xiao; J. He; Y. Zhang; G. Zhang; X. Hu; X. Chen; Y. Zhang; H. Qiao; H. Xie; Y. Li; H. Wang; L. Fang; Q. Dai"
+authors: "Xinyang Li; Yixing Li; Yilaing Zhou; Jiamin Wu; Zhifeng Zhao; Jiaqi Fan; Fei Deng; Zhaofa Wu; Guihua Xiao; Jing He; Yuanlong Zhang; Guoxun Zhang; Xiaowan Hu; Xingye Chen; Yi Zhang; Hui Qiao; Hao Xie; Yulong Li; Haoqian Wang; Lu Fang; Qionghai Dai"
 image: /images/pubs/2022/deepcad_rt.jpg
 paperurl: "https://doi.org/10.1038/s41587-022-01450-8"
 doi: "10.1038/s41587-022-01450-8"

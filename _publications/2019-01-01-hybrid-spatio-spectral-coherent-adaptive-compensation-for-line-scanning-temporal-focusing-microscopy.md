@@ -2,6 +2,7 @@
 title: "Hybrid spatio-spectral coherent adaptive compensation for line-scanning temporal focusing microscopy"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/hybrid-spatio-spectral-coherent-adaptive-compensation-for-line-scanning-temporal-focusing-microscopy
 excerpt: ""
 date: 2019-01-01

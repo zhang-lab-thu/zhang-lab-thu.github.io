@@ -2,11 +2,12 @@
 title: "Doubling the pixel count limitation of single-pixel imaging via sinusoidal amplitude modulation"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/doubling-the-pixel-count-limitation-of-single-pixel-imaging-via-sinusoidal-amplitude-modulation
 excerpt: "We demonstrate a single-pixel imaging (SPI) method that can achieve pixel resolution beyond the physical limitation of the spatial light modulator (SLM), by adopting sinusoidal amplitude modulation and frequency filteri…"
 date: 2018-03-19
 venue: "Opt Express"
-authors: "Y. Zhang; J. Suo; Y. Wang; Q. Dai"
+authors: "Yuanlong Zhang; Jinli Suo; Yuwang Wang; Qionghai Dai"
 image: /images/pubs/2018/2018_oe_SI.png
 paperurl: "https://doi.org/10.1364/OE.26.006929"
 doi: "10.1364/OE.26.006929"

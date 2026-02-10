@@ -2,6 +2,7 @@
 title: "Rapid detection of neurons in widefield calcium imaging datasets after training with synthetic data"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/rapid-detection-of-neurons-in-widefield-calcium-imaging-datasets-after-training-with-synthetic-data
 excerpt: ""
 date: 2023-04-01

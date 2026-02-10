@@ -2,6 +2,7 @@
 title: "LensCopilot is all you need: leveraging a knowledge-grounded LLM for automated high-performance lens design"
 collection: publications
 category: manuscripts
+pub_type: conference
 permalink: /publication/lenscopilot-is-all-you-need-leveraging-a-knowledge-grounded-llm-for-automated-high-performance-lens-design
 excerpt: "Designing multi-elements high-performance optical systems ab initio remains challenging due to a high-dimensional, non-convex search landscape where conventional optimizers without strong initial structures are prone to…"
 date: 2026-01-09

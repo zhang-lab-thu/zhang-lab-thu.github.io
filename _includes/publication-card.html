@@ -18,11 +18,18 @@
       <h3 class="publication-card__title">{{ pub.title }}</h3>
       {% endif %}
       {% if pub.authors %}
-        <p class="publication-card__authors">{{ pub.authors }}</p>
+        {% assign author_text = pub.authors %}
+        {% if site.highlight_authors %}
+          {% for name in site.highlight_authors %}
+            {% assign highlighted = '<span class="pub-author-highlight">' | append: name | append: '</span>' %}
+            {% assign author_text = author_text | replace: name, highlighted %}
+          {% endfor %}
+        {% endif %}
+        <p class="publication-card__authors">{{ author_text }}</p>
       {% endif %}
       {% if pub.venue or pub.date %}
         <p class="publication-card__meta">
-          {% if pub.venue %}<span>{{ pub.venue }}</span>{% endif %}
+          {% if pub.venue %}<span class="pub-venue">{{ pub.venue }}</span>{% endif %}
           {% if pub.date %}<span>{{ pub.date | default: "1900-01-01" | date: "%Y" }}</span>{% endif %}
         </p>
       {% endif %}

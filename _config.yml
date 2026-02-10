@@ -79,6 +79,13 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
+# Publication highlighting (used in publications list)
+highlight_authors:
+  - "Yuanlong Zhang"
+  - "Zhang, Yuanlong"
+  - "Y. Zhang"
+  - "Zhang, Y."
+
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:

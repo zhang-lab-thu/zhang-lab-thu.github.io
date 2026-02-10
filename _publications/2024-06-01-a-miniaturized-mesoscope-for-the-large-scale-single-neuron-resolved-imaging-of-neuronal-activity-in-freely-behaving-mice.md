@@ -2,6 +2,7 @@
 title: "A miniaturized mesoscope for the large-scale single-neuron-resolved imaging of neuronal activity in freely behaving mice"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/a-miniaturized-mesoscope-for-the-large-scale-single-neuron-resolved-imaging-of-neuronal-activity-in-freely-behaving-mice
 excerpt: "Exploring the relationship between neuronal dynamics and ethologically relevant behaviour involves recording neuronal-population activity using technologies that are compatible with unrestricted animal behaviour. Howeve…"
 date: 2024-06-01

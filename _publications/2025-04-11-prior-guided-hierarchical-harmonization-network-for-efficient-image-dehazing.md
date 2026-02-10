@@ -2,6 +2,7 @@
 title: "Prior-guided Hierarchical Harmonization Network for Efficient Image Dehazing"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/prior-guided-hierarchical-harmonization-network-for-efficient-image-dehazing
 excerpt: "Image dehazing is a crucial task that involves the enhancement of degraded images to recover their sharpness and textures. While vision Transformers have exhibited impressive results in diverse dehazing tasks, their qua…"
 date: 2025-04-11

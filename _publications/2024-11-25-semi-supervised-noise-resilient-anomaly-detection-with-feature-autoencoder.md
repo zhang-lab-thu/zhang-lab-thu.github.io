@@ -2,6 +2,7 @@
 title: "Semi-supervised noise-resilient anomaly detection with feature autoencoder"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/semi-supervised-noise-resilient-anomaly-detection-with-feature-autoencoder
 excerpt: "Most methods only use normal samples to learn anomaly detection (AD) models in an unsupervised manner. However, these samples may be noisy in real-world applications, causing the models to be unable to accurately identi…"
 date: 2024-11-25

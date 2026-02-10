@@ -7,50 +7,52 @@ author_profile: true
 
 <h2>Selected Publications</h2>
 
-<p>Our lab has published extensively in top-tier journals and conferences. Below is a list of our publications with project pages and resources.</p>
-
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
-
-<h3>Research Highlights</h3>
-<ul>
-  <li><strong>High-Impact Publications:</strong> Our work has been published in leading journals including [Journal Names]</li>
-  <li><strong>Citations:</strong> Our research has been cited over [Number] times</li>
-  <li><strong>Collaborations:</strong> We collaborate with leading institutions worldwide</li>
-  <li><strong>Open Science:</strong> We are committed to open access and reproducible research</li>
-</ul>
 
 <hr>
 
 {% include base_path %}
 
 <!-- Publication cards -->
-{% if site.publication_category %}
-  {% for category in site.publication_category %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2>
-        <div class="publication-list">
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include publication-card.html post=post %}
-    {% endfor %}
-    {% if title_shown %}
-        </div>
-    {% endif %}
-  {% endfor %}
-{% else %}
-  <div class="publication-list">
-  {% for post in site.publications reversed %}
+{% assign all_pubs = site.publications | sort: "date" | reverse %}
+{% assign journal_pubs = all_pubs | where: "pub_type", "journal" %}
+{% assign conf_pubs = all_pubs | where: "pub_type", "conference" %}
+
+<h2>Journal Articles</h2>
+<div class="publication-list">
+  {% for post in journal_pubs %}
     {% include publication-card.html post=post %}
   {% endfor %}
-  </div>
+</div>
+
+<h2>Conference Papers</h2>
+<div class="publication-list">
+  {% for post in conf_pubs %}
+    {% include publication-card.html post=post %}
+  {% endfor %}
+</div>
+
+{% assign has_other = false %}
+{% for post in all_pubs %}
+  {% unless post.pub_type == "journal" %}
+    {% unless post.pub_type == "conference" %}
+      {% assign has_other = true %}
+    {% endunless %}
+  {% endunless %}
+{% endfor %}
+
+{% if has_other %}
+<h2>Other Publications</h2>
+<div class="publication-list">
+  {% for post in all_pubs %}
+    {% unless post.pub_type == "journal" %}
+      {% unless post.pub_type == "conference" %}
+        {% include publication-card.html post=post %}
+      {% endunless %}
+    {% endunless %}
+  {% endfor %}
+</div>
 {% endif %}
-
-
 

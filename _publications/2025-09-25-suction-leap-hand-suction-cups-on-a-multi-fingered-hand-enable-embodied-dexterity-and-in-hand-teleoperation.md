@@ -2,6 +2,7 @@
 title: "Suction Leap-Hand: Suction Cups on a Multi-fingered Hand Enable Embodied Dexterity and In-Hand Teleoperation"
 collection: publications
 category: manuscripts
+pub_type: conference
 permalink: /publication/suction-leap-hand-suction-cups-on-a-multi-fingered-hand-enable-embodied-dexterity-and-in-hand-teleoperation
 excerpt: "Dexterous in-hand manipulation remains a foundational challenge in robotics, with progress often constrained by the prevailing paradigm of imitating the human hand. This anthropomorphic approach creates two critical bar…"
 date: 2025-09-25

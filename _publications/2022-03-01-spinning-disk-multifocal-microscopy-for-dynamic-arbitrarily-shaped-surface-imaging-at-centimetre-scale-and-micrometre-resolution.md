@@ -2,6 +2,7 @@
 title: "Spinning Disk Multifocal Microscopy for Dynamic Arbitrarily Shaped Surface Imaging at Centimetre Scale and Micrometre Resolution"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/spinning-disk-multifocal-microscopy-for-dynamic-arbitrarily-shaped-surface-imaging-at-centimetre-scale-and-micrometre-resolution
 excerpt: ""
 date: 2022-03-01

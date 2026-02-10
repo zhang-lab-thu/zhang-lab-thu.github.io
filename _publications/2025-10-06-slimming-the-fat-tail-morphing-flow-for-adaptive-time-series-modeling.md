@@ -2,6 +2,7 @@
 title: "Slimming the Fat-Tail: Morphing-Flow for Adaptive Time Series Modeling"
 collection: publications
 category: manuscripts
+pub_type: conference
 permalink: /publication/slimming-the-fat-tail-morphing-flow-for-adaptive-time-series-modeling
 excerpt: "Temporal sequences, even after stationarization, often exhibit leptokurtic distributions with fat tails and persistent distribution shifts. These properties destabilize feature dynamics, amplify model variance, and hind…"
 date: 2025-10-06

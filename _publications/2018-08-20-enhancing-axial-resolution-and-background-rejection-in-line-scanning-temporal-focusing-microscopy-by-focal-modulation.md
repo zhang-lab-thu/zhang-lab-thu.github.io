@@ -2,11 +2,12 @@
 title: "Enhancing axial resolution and background rejection in line-scanning temporal focusing microscopy by focal modulation"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/enhancing-axial-resolution-and-background-rejection-in-line-scanning-temporal-focusing-microscopy-by-focal-modulation
 excerpt: "Compared with two-photon point-scanning microscopy, line-scanning temporal focusing microscopy breaks the limitation on imaging rate and maintains the axial resolution, which makes it promising for various biomedical st…"
 date: 2018-08-20
 venue: "Opt Express"
-authors: "Y. Zhang; L. Kong; H. Xie; X. Han; Q. Dai"
+authors: "Yunlong Zhang; Lingjie Kong; Hao Xie; Xiaofei Han; Qionghai Dai"
 image: /images/pubs/2018/2018_oe_fmm.png
 paperurl: "https://doi.org/10.1364/OE.26.021518"
 doi: "10.1364/OE.26.021518"

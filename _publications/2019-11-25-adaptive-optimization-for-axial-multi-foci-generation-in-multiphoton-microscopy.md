@@ -2,11 +2,12 @@
 title: "Adaptive optimization for axial multi-foci generation in multiphoton microscopy"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/adaptive-optimization-for-axial-multi-foci-generation-in-multiphoton-microscopy
 excerpt: "To improve imaging speed, multifocal excitation is widely adopted as a parallel strategy in laser-scanning microscopy. Specifically, axial multifocal microscopy is popular in neuroscience as it enables functional imagin…"
 date: 2019-11-25
 venue: "Opt Express"
-authors: "X. Li; Y. Zhang; K. Liu; H. Xie; H. Wang; L. Kong; Q. Dai"
+authors: "Xinyang Li; Yuanlong Zhang; Kan Liu; Hao Xie; Haoqian Wang; Lingjie Kong; Qionghai Dai"
 image: /images/pubs/2019/2019_multifoci.png
 paperurl: "https://doi.org/10.1364/OE.27.035948"
 

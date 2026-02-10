@@ -2,6 +2,7 @@
 title: "Adaptive visible light integrated sensing and communication for cable-free virtual reality"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/adaptive-visible-light-integrated-sensing-and-communication-for-cable-free-virtual-reality
 excerpt: "Visible light communication plays an essential role in the next-generation 6G network due to its extremely high bandwidth and ultrafast transmission speed. Incorporating position sensing functionality into the communica…"
 date: 2025-09-01

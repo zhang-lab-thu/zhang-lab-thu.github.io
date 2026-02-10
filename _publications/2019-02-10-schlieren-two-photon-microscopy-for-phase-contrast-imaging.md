@@ -2,11 +2,12 @@
 title: "Schlieren two-photon microscopy for phase-contrast imaging"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/schlieren-two-photon-microscopy-for-phase-contrast-imaging
 excerpt: "While simultaneous phase-contrast and two-photon fluorescence imaging in microscopy can bring abundant biomedical information, it is difficult to retrieve phase information from conventional two-photon microscopes. To r…"
 date: 2019-02-10
 venue: "Appl Opt"
-authors: "H. Xie; Y. Zhang; L. Kong; P. Xi; Q. Dai"
+authors: "Hao Xie; Yuanlong Zhang; Lingjie Kong; Peng Xi; Qionghai Dai"
 image: /images/pubs/2019/2019_ao.jpg
 paperurl: "https://doi.org/10.1364/AO.58.000A26"
 doi: "10.1364/AO.58.000A26"

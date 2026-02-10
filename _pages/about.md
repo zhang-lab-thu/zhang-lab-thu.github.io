@@ -17,7 +17,7 @@ Our long-term goal is to make neural activity measurable at scale, make behavior
 
 Our research centers on three connected directions:
 
-- **Pan-scale brain observation (pan-view):** We develop experimental and computational methods for scalable observation of large neuronal populations, aiming to expand both spatial coverage and analytical throughput in behaving animals.
+- **Pan-scale brain observation:** We develop experimental and computational methods for scalable observation of large neuronal populations, aiming to expand both spatial coverage and analytical throughput in behaving animals.
 - **Language-describable behavior understanding:** We build pipelines that map rich behavioral data to structured, language-compatible representations, enabling comparison across individuals, tasks, and experiments.
 - **NeuroAI:** We develop tools to align brain data and artificial agents (and their internal representations), using each as a model system to better understand the other.
 

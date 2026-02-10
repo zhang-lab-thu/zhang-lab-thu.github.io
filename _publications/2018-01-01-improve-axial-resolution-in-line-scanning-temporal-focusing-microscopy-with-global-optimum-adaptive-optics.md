@@ -2,6 +2,7 @@
 title: "Improve Axial Resolution in Line-Scanning Temporal Focusing Microscopy with Global Optimum Adaptive Optics"
 collection: publications
 category: manuscripts
+pub_type: conference
 permalink: /publication/improve-axial-resolution-in-line-scanning-temporal-focusing-microscopy-with-global-optimum-adaptive-optics
 excerpt: ""
 date: 2018-01-01

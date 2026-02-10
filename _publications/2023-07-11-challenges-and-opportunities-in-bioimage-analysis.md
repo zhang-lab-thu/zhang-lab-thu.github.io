@@ -2,6 +2,7 @@
 title: "Challenges and opportunities in bioimage analysis"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/challenges-and-opportunities-in-bioimage-analysis
 excerpt: ""
 date: 2023-07-11

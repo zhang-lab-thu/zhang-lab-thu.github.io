@@ -2,6 +2,7 @@
 title: "Mesoscale neuronal granular trial variability in vivo illustrated by nonlinear recurrent network in silico"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/mesoscale-neuronal-granular-trial-variability-in-vivo-illustrated-by-nonlinear-recurrent-network-in-silico
 excerpt: "Large-scale neural recording with single-neuron resolution has revealed the functional complexity of the neural systems. However, even under well-designed task conditions, the cortex-wide network exhibits highly dynamic…"
 date: 2024-11-15

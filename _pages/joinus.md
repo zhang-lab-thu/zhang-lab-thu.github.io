@@ -7,154 +7,38 @@ author_profile: true
 
 {% include base_path %}
 
-## Join Our Research Team
+## Positions
 
-We are always looking for talented and motivated individuals to join our research group. We offer a collaborative and supportive environment where you can develop your skills and contribute to cutting-edge research.
+The Yuanlong Zhang Lab at Tsinghua University develops experimental and computational methods for large-scale brain observation, language-compatible descriptions of behavior, and NeuroAI. We welcome applications from curious, self-driven people who enjoy building tools, working with complex data, and turning ideas into testable results.
 
----
+We currently recruit at the following levels:
 
-## Current Openings
+### Postdoctoral positions
 
-### Postdoctoral Positions
+We are always interested in applications from highly motivated postdoctoral candidates who want to work on optical/electronic neurotechnology development, quantitative behavior analysis, and/or computational neuroscience and machine learning. Strong fits include backgrounds in neuroengineering, systems neuroscience, optics/imaging, signal processing, statistics, or ML for neuroscience. If you are interested in joining, please email **[yuanlongzhang]@[tsinghua.edu.cn]** with your application materials: **CV**, a **brief research statement** (what you’ve done + what you want to do), and **2–3 representative papers/preprints** (or a link). Please also include **contact information for 2–3 references**.
 
-We have openings for postdoctoral researchers with expertise in:
-- [Research Area 1]
-- [Research Area 2]
-- [Research Area 3]
+### PhD positions
 
-**Requirements:**
-- PhD in [relevant field] or related disciplines
-- Strong publication record
-- Excellent programming skills (Python, MATLAB, etc.)
-- Strong communication and teamwork abilities
-- Experience with [specific techniques/methods]
+We welcome PhD applicants with backgrounds in engineering, physics, mathematics, computer science, neuroscience, or related fields. PhD applicants must be admitted through the appropriate Tsinghua University graduate program to officially join. If you are considering applying, please email **[yuanlongzhang]@[tsinghua.edu.cn]** with your **CV**, a short description of your **research interests**, any **publications/preprints** (if available), and **contact information for two references**.
 
-**What We Offer:**
-- Competitive salary and benefits
-- State-of-the-art research facilities
-- Opportunities for international collaboration
-- Support for career development
-- Flexible research environment
+### Research intern positions (engineering / mathematics / computer science)
+
+We welcome research interns with strong quantitative backgrounds (engineering, mathematics, computer science, or related disciplines). Intern projects may include instrument prototyping, data engineering, simulation, ML model development, or analysis pipelines for neural/behavioral data. Please email **[yuanlongzhang]@[tsinghua.edu.cn]** with your **CV**, a short note on your **skills and interests**, and your **availability** (start/end dates, expected weekly time commitment). Including a link to a **GitHub/portfolio** is encouraged.
+
+### Research technician (animal surgery and experimental support)
+
+We are recruiting a research technician to support animal experiments, with an emphasis on rodent surgical procedures and post-operative care. Responsibilities may include assisting with (and, after training, performing) surgeries, animal handling, health monitoring, record keeping, coordination of supplies, and maintaining high standards of experimental quality and compliance with institutional regulations. Applicants should be meticulous, reliable, comfortable working in an animal facility, and able to document work clearly. Prior experience with rodent handling/surgery is a strong plus; strong motivation to learn and follow protocols is essential. Please email **[yuanlongzhang]@[tsinghua.edu.cn]** with your **CV**, a brief summary of **relevant experience**, and **contact information for 1–2 references**.
+
+### Visiting scholars
+
+We welcome visiting scholars for focused collaborative projects. Please contact **[yuanlongzhang]@[tsinghua.edu.cn]** with your **research interests**, a **proposed collaboration plan**, your **CV/publication list**, and your **preferred visiting period**.
 
 ---
 
-### PhD Positions
+## Notes on applications
 
-We are seeking motivated PhD students interested in [research areas]. 
+- We review inquiries **on a rolling basis**.
+- Please use the email subject line: **[JoinUs][Position] Your Name**.
+- Wherever possible, please send your materials as **one PDF** (links are fine for code and publications).
 
-**Ideal Candidates Should Have:**
-- Bachelor's or Master's degree in [relevant fields]
-- Strong academic record
-- Programming experience (Python, R, C++, etc.)
-- Good command of English (written and spoken)
-- Passion for research and innovation
-
-**What You Will Gain:**
-- Comprehensive PhD training
-- Access to cutting-edge facilities and resources
-- Opportunities to publish in top-tier journals
-- Attendance at international conferences
-- Collaborative research environment
-
-**Funding:**
-- Full tuition waiver
-- Competitive stipend
-- Conference travel support
-- Research equipment and materials
-
----
-
-### Master's Students
-
-We welcome Master's students who are interested in conducting research in:
-- [Research Topic 1]
-- [Research Topic 2]
-- [Research Topic 3]
-
-**Requirements:**
-- Strong undergraduate academic record
-- Interest in [research field]
-- Basic programming skills
-- Ability to work independently and in teams
-
----
-
-### Undergraduate Students
-
-We offer research opportunities for undergraduate students through:
-- Summer research internships
-- Academic year research projects
-- Honors thesis projects
-
-**What You Need:**
-- Strong academic performance
-- Enthusiasm for research
-- Willingness to learn new skills
-- Commitment to the research project
-
----
-
-### Visiting Scholars
-
-We welcome visiting scholars and researchers for collaborative projects. If you are interested in visiting our lab, please contact us with:
-- Your research interests and proposed collaboration
-- Your CV and publication list
-- Preferred visiting period
-
----
-
-## How to Apply
-
-### For PhD and Postdoc Positions
-
-Please send the following materials to [email]@[domain]:
-
-1. **Cover Letter**
-   - Your research interests
-   - Why you want to join our lab
-   - Your career goals
-
-2. **Curriculum Vitae (CV)**
-   - Education background
-   - Research experience
-   - Publications (if any)
-   - Skills and expertise
-
-3. **Academic Transcripts** (for PhD applicants)
-
-4. **Contact Information for 2-3 References**
-
-5. **Research Statement** (1-2 pages)
-   - Past research experience
-   - Future research interests
-   - Relevant skills and expertise
-
-### For Master's and Undergraduate Students
-
-Please contact us at [email]@[domain] with:
-- Your CV
-- Academic transcripts
-- Brief statement of research interests
-
----
-
-## Application Timeline
-
-- **Fall Admission:** Applications accepted until [Date]
-- **Spring Admission:** Applications accepted until [Date]
-
-We review applications on a rolling basis and encourage early applications.
-
----
-
-## Diversity and Inclusion
-
-We are committed to fostering a diverse and inclusive research environment. We welcome applications from individuals of all backgrounds, nationalities, and experiences.
-
----
-
-## Questions?
-
-If you have any questions about joining our lab, please feel free to contact us at [email]@[domain].
-
-We look forward to hearing from you!
+For questions, contact us at **[yuanlongzhang]@[tsinghua.edu.cn]**.

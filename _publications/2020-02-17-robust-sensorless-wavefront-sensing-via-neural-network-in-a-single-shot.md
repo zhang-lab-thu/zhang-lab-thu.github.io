@@ -2,6 +2,7 @@
 title: "Robust sensorless wavefront sensing via neural network in a single-shot"
 collection: publications
 category: manuscripts
+pub_type: conference
 permalink: /publication/robust-sensorless-wavefront-sensing-via-neural-network-in-a-single-shot
 excerpt: "SPIE BiOS 2020 paper on robust sensorless wavefront sensing via neural network in a single-shot."
 date: 2020-02-17

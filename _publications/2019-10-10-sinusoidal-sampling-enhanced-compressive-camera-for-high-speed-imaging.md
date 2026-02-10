@@ -2,11 +2,12 @@
 title: "Sinusoidal Sampling Enhanced Compressive Camera for High Speed Imaging"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/sinusoidal-sampling-enhanced-compressive-camera-for-high-speed-imaging
 excerpt: "Compressive sensing technique allows capturing fast phenomena at much higher frame rate than the camera sensor, by recovering a frame sequence from their encoded combination. However, most conventional compressive video…"
 date: 2019-10-10
 venue: "IEEE Trans Pattern Anal Mach Intell"
-authors: "C. Deng; Y. Zhang; Y. Mao; J. Fan; J. Suo; Z. Zhang; Q. Dai"
+authors: "Chao Deng; Yuanlong Zhang; Yifeng Mao; Jingtao Fan; Jinli Suo; Zhili Zhang; Qionghai Dai"
 image: /images/pubs/2019/2019_pami.png
 paperurl: "https://doi.org/10.1109/TPAMI.2019.2946567"
 doi: "10.1109/TPAMI.2019.2946567"

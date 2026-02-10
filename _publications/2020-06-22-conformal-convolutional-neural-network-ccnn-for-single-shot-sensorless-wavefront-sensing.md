@@ -2,11 +2,12 @@
 title: "Conformal convolutional neural network (CCNN) for single-shot sensorless wavefront sensing"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/conformal-convolutional-neural-network-ccnn-for-single-shot-sensorless-wavefront-sensing
 excerpt: "Wavefront sensing technique is essential in deep tissue imaging, which guides spatial light modulator to compensate wavefront distortion for better imaging quality. Recently, convolutional neural network (CNN) based sen…"
 date: 2020-06-22
 venue: "Opt Express"
-authors: "Y. Zhang; T. Zhou; L. Fang; L. Kong; H. Xie; Q. Dai"
+authors: "Yuanlong Zhang; Tiankuang Zhou; Lu Fang; Lingjie Kong; Hao Xie; Qionghai Dai"
 image: /images/pubs/2020/2020_ccnn.png
 paperurl: "https://doi.org/10.1364/OE.390878"
 doi: "10.1364/OE.390878"

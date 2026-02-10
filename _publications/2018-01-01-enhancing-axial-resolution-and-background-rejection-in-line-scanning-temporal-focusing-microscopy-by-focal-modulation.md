@@ -2,6 +2,7 @@
 title: "Enhancing axial resolution and background rejection in line-scanning temporal focusing microscopy by focal modulation"
 collection: publications
 category: manuscripts
+pub_type: conference
 permalink: /publication/enhancing-axial-resolution-and-background-rejection-in-line-scanning-temporal-focusing-microscopy-by-focal-modulation
 excerpt: ""
 date: 2018-01-01

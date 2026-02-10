@@ -2,11 +2,12 @@
 title: "Overcoming tissue scattering in wide-field two-photon imaging by extended detection and computational reconstruction"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/overcoming-tissue-scattering-in-wide-field-two-photon-imaging-by-extended-detection-and-computational-reconstruction
 excerpt: "Compared to point-scanning multiphoton microscopy, line-scanning temporal focusing microscopy (LTFM) is competitive in high imaging speed while maintaining tight axial confinement. However, considering its wide-field de…"
 date: 2019-07-22
 venue: "Opt Express"
-authors: "Y. Zhang; T. Zhou; X. Hu; X. Li; H. Xie; L. Fang; L. Kong; Q. Dai"
+authors: "Yuanlong Zhang; Tiankuang Zhou; Xuemei Hu; Xinyang Li; Hao Xie; Lu Fang; Lingjie Kong; Qionghai Dai"
 image: /images/pubs/2019/2019_oe_ed.png
 paperurl: "https://doi.org/10.1364/OE.27.020117"
 doi: "10.1364/OE.27.020117"

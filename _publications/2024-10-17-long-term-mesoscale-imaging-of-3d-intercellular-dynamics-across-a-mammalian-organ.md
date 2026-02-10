@@ -2,6 +2,7 @@
 title: "Long-term mesoscale imaging of 3D intercellular dynamics across a mammalian organ"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/long-term-mesoscale-imaging-of-3d-intercellular-dynamics-across-a-mammalian-organ
 excerpt: "<h2>Summary</h2><p>A comprehensive understanding of physio-pathological processes necessitates non-invasive intravital three-dimensional (3D) imaging over varying spatial and temporal scales. However, huge data throughp…"
 date: 2024-10-17

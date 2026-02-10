@@ -2,11 +2,12 @@
 title: "Mesoscale volumetric light-field (MesoLF) imaging of neuroactivity across cortical areas at 18 Hz"
 collection: publications
 category: manuscripts
+pub_type: journal
 permalink: /publication/mesoscale-volumetric-light-field-mesolf-imaging-of-neuroactivity-across-cortical-areas-at-18-hz
 excerpt: "Various implementations of mesoscopes provide optical access for calcium imaging across multi-millimeter fields of view in the mammalian brain; however, capturing the activity of the neuronal population within such fiel…"
 date: 2023-02-23
 venue: "Nature Methods"
-authors: "T. Nobauer; Y. Zhang; H. Kim; A. Vaziri"
+authors: "Tobias Nöbauer; Yuanlong Zhang;  Hyewon Kim; Alipasha Vaziri"
 image: /images/pubs/2023/mesoscale-volumetric-light-field-mesolf-imaging-of-neuroactivity-across-cortical-areas-at-18-hz.jpg
 paperurl: "https://doi.org/10.1038/s41592-023-01789-z"
 doi: "10.1038/s41592-023-01789-z"
