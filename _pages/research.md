@@ -33,6 +33,7 @@ As recording throughput grows, the limiting step often becomes **extracting clea
 - **DeepWonder (Nature Methods 2023):** A synthesis-training-based background removal framework for functional imaging that reduces processing time by ~**10×** while improving the accuracy and reliability of signal extraction. 
 - **DiLFM (Light: Science & Applications 2021):** A sparse-encoding, low-phototoxicity light-field reconstruction framework that mitigates artifacts under sub-optimal illumination and extends the usable observation window by **>50×** in phototoxicity-sensitive settings (e.g., zebrafish larvae). 
 - **DeepSeMi (Nature Methods 2023):** A denoising approach that yields an effective **~15× photon budget increase** in standard confocal microscopy, enabling longer and gentler observation of light-sensitive biological dynamics.
+
 ### Area 3: Neurocircuits, behavior, and NeuroAI
 
 Our tool-building efforts are guided by neuroscience questions: how neural populations coordinate across brain regions to support learning, memory, and flexible behavior. We are developing experimental and computational frameworks that connect **large-scale neural recordings** to **behavioral structure** and **computational models**, with two goals: (i) extract mechanistic principles of neural computation, and (ii) use those principles to inform **NeuroAI** and next-generation **brain–computer interface** ideas.
